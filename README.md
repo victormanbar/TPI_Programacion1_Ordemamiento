@@ -6,4 +6,4 @@ Alummos: Barroeta Victor Manuel, Beauvallet Pablo Nahuel.
 
 El trabajo se baso en la comparación del algoritmos bubble sort y el algoritmo quick sort, cada codigo en el repositorio mide el tiempo de ejecucion de caso practico para poner a prueba
 
-Link del video: 
+Link del video: https://youtu.be/p08B7ZKnyD8
