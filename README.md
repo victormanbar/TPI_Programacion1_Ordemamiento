@@ -1,4 +1,4 @@
-# TPI_Programacion1_Ordemamiento
+# TPI_Programacion1_Ordenamiento
 Trabajo practico Integrador de Busqueda y Ordenamiento - Programación Comision 10 UTN
 Implementación y Análisis Comparativo de los Algoritmos de Bubble Sort 
 
